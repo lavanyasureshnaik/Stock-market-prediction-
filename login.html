@@ -1,0 +1,43 @@
+{% extends "layout.html" %}
+{% block content %}
+
+  <center>{% with messages = get_flashed_messages() %}
+   {% if messages %}
+     <ul class="flashes">
+        {% for message in messages %}
+         <div class="message_flash">{{ message }}</div>
+        {% endfor %}
+    </ul>
+  {% endif %}
+ {% endwith %}</center>
+
+<div class="content-section">
+
+  <form action="/login" method="post">
+
+     <fieldset class="form-group">
+         <legend class="border-bottom mb-4">Log In</legend>
+         <div class="form-group">
+      <label for="email"><b>User name</b></label>
+      <input type="text" placeholder="Enter Email" name="email" >
+         </div>
+         <div class="form-group">
+      <label for="psw"><b>Password</b></label>
+      <input type="password" placeholder="Enter Password" name="psw" >
+         </div>
+         <div class="form-group">
+      <button type="submit">Login</button>
+         </div>
+        <label><b>New user</b></label>
+            <a href="/register" class ='btn2' type="submit">register</a>
+
+</div>
+
+  </form>
+
+</div>
+{% endblock content %}
+
+
+</body>
+</html>

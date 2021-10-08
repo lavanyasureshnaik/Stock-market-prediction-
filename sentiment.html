@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block content %}
+<!--        <a class="button" href="{{ url_for('onprediction') }}">Prediction</a>-->
+        <a class="button" href="{{ url_for('onsentiment') }}">Sentiment Prediction</a>
+        <a class="button" href="{{ url_for('onnifty50') }}">NIFTY 50 Company</a>
+
+
+    <br>
+<div style="background-color:#ADD8E6;padding-left:4%;">
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <h4>Upload the company file that is downloaded in the folder.</h4>
+                <h5>The file will have the name of the company.</h5>
+                <br>
+    <form action = "/analyse" method = "post" enctype="multipart/form-data">
+        <input class="btn btn-outline-info" type="file" name="file" style="color:balck;"/>
+        <input class="btn btn-outline-info" type = "submit" value="Upload" style="color:black;">
+    </form>
+            </div>
+            <div class="col-md-4">
+                    <img src="{{url_for('static', filename='up.jpg')}}" alt="company" style="width:300px;height:250px;padding-right:3%"/>
+                <br>
+            </div>
+        </div>
+        <br>
+    </div>
+
+
+{% endblock content %}

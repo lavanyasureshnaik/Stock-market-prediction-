@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+{% block content %}
+<!--    <a class="button" href="{{ url_for('onprediction') }}">Prediction</a>-->
+        <a class="button" href="{{ url_for('onsentiment') }}">Sentimental Analysis</a>
+        <a class="button" href="{{ url_for('onnifty50') }}">NIFTY 50 Company</a>
+<div style="background-color:#ADD8E6;padding-left:4%;">
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+    <form action = "http://localhost:5000/sentiment" method = "post">
+    <label class="navbar-brand mr-4" for="fname">Enter Company Name for Sentiment Analysis</label>
+    <input class="form-control form-control-lg" type="text" id="fname" name="company" placeholder="Enter company name" style="width:600px;">
+    <br>
+    <input class="button" type = "submit" value = "submit" />
+    </form>
+            </div>
+            <div class="col-md-4">
+                    <img src="{{url_for('static', filename='c.png')}}" alt="company" style="width:300px;height:250px;padding-right:3%"/>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+</div>
+{% endblock content %}

@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block content %}
+<div style="background-color:#ADD8E6;">
+        <h2 STYLE="text-align:center;"><b>HOW TO DECIDE WHETHER TO BUY THE STOCK OR NO?</b></h2>
+<!--        <a class="button" href="{{ url_for('onprediction') }}">Prediction</a>-->
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4">
+        <img src="{{url_for('static', filename='bg1.png')}}" style="width:350px;height:250px;padding-top:2%;padding-left:12%;"/>
+            </div>
+          <div class="col-md-4">
+        <img src="{{url_for('static', filename='bg.jpg')}}" style="width:375px;height:250px;padding-top:2%;"/>
+            </div>
+          <div class="col-md-4">
+            <img src="{{url_for('static', filename='bg2.png')}}" style="width:300px;height:250px;padding-top:2%;padding-left:8%;"/>
+          </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <center>
+        <a class="button" href="{{ url_for('onsentiment') }}">Sentimental Prediction </a>
+        <a class="button" href="{{ url_for('onnifty50') }}">NIFTY 50 Company</a>
+              <a class="button" href="{{ url_for('price') }}">Price</a>
+        <!--<input href="{{ url_for('onprediction') }}" type="button" class="button" value="Prediction">
+        <input href="{{ url_for('onsentiment') }}" type="button" class="button" value="Sentimental Analysis">
+        <input href="{{ url_for('onnifty50') }}" type="button" class="button" value="NIFTY 50 Rank">-->
+        </center>
+        <br>
+</div>
+{% endblock content %}

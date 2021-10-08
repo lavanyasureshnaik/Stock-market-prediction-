@@ -1,0 +1,55 @@
+{% extends "layout.html" %}
+{% block content %}
+        <div class="container">
+            <h1 style="font:Monaco;text-size:25px; text-align:center;color:#102038;"> Stock Market Volatility Prediction </h1>
+        </div>
+        <br>
+        <div class="container">
+           <div class="row">
+               <div class="col-md-5">
+                   <img src="{{url_for('static', filename='sm.jpg')}}" alt="Stock market" style="width:400px;height:275px" align="middle"/>
+               </div>
+               <div class="col-md-7">
+                   <p style="font:Times New Roman;font-size:30px;text-align:center;padding-top:10%;"><i><b>“The stock market is filled with individuals who know the price of everything, but the value of nothing.”</b></i></p>
+               </div>
+           </div> 
+        </div>
+<br>
+<article class="media content-section"style="background-color:#ADD8E6" >
+          <div class="media-body">
+            <div class="container">
+                  <h3 style="color:#00008b;font:aharoni;"><b>BOMBAY STOCK EXCHANGE</b></h3>
+                  <p style="color:black;font:sans-serif;">
+                      <img src="{{url_for('static', filename='bse.png')}}" alt="bombay stock exchange" style="width:250px;height:200px;float:right;"/>
+                      BSE Limited, also known as the Bombay Stock Exchange, is an Indian stock exchange located on Dalal Street in Mumbai.
+                      Established in 1875,it is Asia's oldest stock exchange.
+                      The BSE is the 9th largest stock exchange with an overall market capitalization of more than ₹2,18,730 billion on as of May 2021.
+                      A decade later, the brokers moved their location to another leafy setting, this time under banyan trees at the junction of Meadows Street and what was then called Esplanade Road, now Mahatma Gandhi Road.
+                      With a rapid increase in the number of brokers, they had to shift places repeatedly. At last, in 1874, the brokers found a permanent location, the one that they could call their own.
+                      The brokers group became an official organization known as "The Native Share & Stock Brokers Association" in 1875.
+                      In 1986, the BSE developed the S&P BSE SENSEX index, giving the BSE a means to measure the overall performance of the exchange.
+                      In 2000, the BSE used this index to open its derivatives market, trading S&P BSE SENSEX futures contracts.
+                      The development of S&P BSE SENSEX options along with equity derivatives followed in 2001 and 2002, expanding the BSE's trading platform.
+                      BSE is Asia's first & the Fastest Stock Exchange in world with the speed of 6 micro seconds and one of India's leading exchange groups.
+                      In 2013, BSE upgraded its technology platform to Bolt Plus, which is based on the business architecture of global giant Deutsche Börse.
+                  </p>
+                <hr>
+                <h3 style="color:#00008b;font:aharoni;"><b>NATIONAL STOCK EXCHANGE</b></h3>
+                <p style="color:black;font:gisha;">
+                    <img src="{{url_for('static', filename='nse.jpg')}}" alt="national stock exchange" style="width:350px;height:200px;float:right;"/>
+                    National Stock Exchange of India Limited (NSE) is the leading government owned stock exchange of India, located in Mumbai, Maharashtra.
+                    It is under the ownership of Some leading financial institutions, Banks and Insurance companies. NSE was established in 1992 as the first dematerialized electronic exchange in the country.
+                    NSE was the first exchange in the country to provide a modern, fully automated screen-based electronic trading system that offered easy trading facilities to investors spread across the length and breadth of the country.
+                    National Stock Exchange has a total market capitalization of more than US$3 trillion, making it the world's 9th-largest stock exchange as of May 2021.
+                    NSE's flagship index, the NIFTY 50, a 50 stock index is used extensively by investors in India and around the world as a barometer of the Indian capital market.
+                    The NIFTY 50 index was launched in 1996 by NSE.
+                    NSE has taken huge strides in technology in 20 years.
+                    In 1994, when trading started, NSE technology was handling 2 orders a second.
+                    This increased to 60 orders a second in 2001. Today NSE can handle 1,60,000 orders/messages per second, with infinite ability to scale up at short notice on demand, NSE has continuously worked towards ensuring that the settlement cycle comes down.
+                    Settlements have always been handled smoothly.
+                </p>
+              </div>
+            </div>
+
+</article>
+{% endblock content %}

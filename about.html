@@ -1,0 +1,43 @@
+{% extends "layout.html" %}
+{% block content %}
+    <article class="media content-section"style="background-color:#ADD8E6" >
+          <div class="media-body">
+            <div class="article-metadata">
+              <h4 style="color:black;">What is Stock Market?</h4>
+                <p style="color:black;">A stock market, equity market, or share market is the aggregation of buyers and sellers of stocks, which represent ownership claims on businesses.
+                    These may include securities listed on a public stock exchange, as well as stock that is only traded privately, such as shares of private companies which are sold to investors through equity crowdfunding platforms.
+                    Investment in the stock market is most often done via stockbrokerages and electronic trading platforms.
+                    Investment is usually made with an investment strategy in mind.</p>
+            </div>
+              <div class="container">
+                  <div class="row">
+                      <div class="col-md-7">
+              <h4 style="color:black;">What is sentimental analysis?</h4>
+              <p style="color:black;">Sentiment analysis, also known as opinion mining or emotion AI, is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information.
+                  Sentiment analysis is widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine.</p>
+                      </div>
+                      <div class="col-md-5">
+                          <img src="{{url_for('static', filename='sen.jpg')}}" alt="Sentimental analysis" style="width:auto;height:210px;" align="middle"/>
+                      </div>
+                  </div>
+                  <hr style="color:black;">
+              </div>
+              <div class="container">
+                <div class="row">
+                    <div class="col-md-5">
+                         <img src="{{url_for('static', filename='sen1.jpg')}}" alt="Sentimental analysis" style="width:auto;height:210px;" align="middle"/>
+                    </div>
+                    <div class="col-md-7">
+                        <h4 style="color:black;">What is sentimental analysis in stock market?</h4>
+                         <p style="color:black;">Stock sentiment analysis can be used to determine investors' opinions of a specific stock or asset.
+                    Sentiment may at times hint at future price action.
+                    This is also an example of how trading psychology can affect a market, assisting as a forecasting tool to determine possible future price changes in a particular asset.
+                         Sentiment indicators are typically used to determine whether a market is “bullish” or “bearish”.
+                             When investors predict that the price of a stock will increase, they may purchase the share and if enough investors do the same sentiment could be deemed bullish.
+                         </p>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </article>
+{% endblock content %}

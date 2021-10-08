@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block content %}
+<!--        <a class="button" href="{{ url_for('onprediction') }}">Prediction</a>-->
+        <a class="button" href="{{ url_for('onsentiment') }}">Sentimental Analysis</a>
+        <a class="button" href="{{ url_for('onnifty50') }}">NIFTY 50 Company</a>
+
+    <br>
+    <form action = "http://localhost:5000/prediction" method = "post">
+    <label class="navbar-brand mr-4" for="fname">Enter Company Name for Prediction</label>
+    <input class="form-control form-control-lg" type="text" id="fname" name="company" placeholder="Enter company..">
+    <input class="button" type = "submit" value = "submit" />
+    </form>
+{% endblock content %}

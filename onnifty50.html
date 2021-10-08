@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+{% block content %}
+<!--        <a class="button" href="{{ url_for('onprediction') }}">Prediction</a>-->
+        <a class="button" href="{{ url_for('onsentiment') }}">Sentimental prediction</a>
+        <a class="button" href="{{ url_for('onnifty50') }}">NIFTY 50 Company</a>
+<br>
+<br>
+<table>
+  <tr>
+        {% for i in header %}
+    <th>{{ i }}</th>
+    {% endfor %}
+  </tr>
+  <tr>
+          {% for i in range(51) %}
+          {% for j in data[i] %}
+    <td>{{ j }}</td>
+    {% endfor %}
+
+  </tr>
+        {% endfor %}
+</table>
+
+
+{% endblock content %}

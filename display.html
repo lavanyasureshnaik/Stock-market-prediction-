@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block content %}
+<!--        <a class="button" href="{{ url_for('onprediction') }}">Prediction</a>-->
+        <a class="button" href="{{ url_for('onsentiment') }}">Sentimental Analysis</a>
+        <a class="button" href="{{ url_for('onnifty50') }}">NIFTY 50 Company</a>
+
+    <br>
+<div style="background-color:#ADD8E6;padding-left:4%;">
+      <legend class="border-bottom mb-4">Here is Sentimental Analysis of the company you requested</legend>
+
+      <table border = 2 style="width=80%;">
+         {% for key, value in result.items() %}
+            <tr>
+               <th border = 3 style="width:40%;"> {{ key }} </th>
+               <td border =2 style="width:30%;"> {{ value }} </td>
+            </tr>
+         {% endfor %}
+      </table>
+    <br>
+      {{ p }}
+    <h4 style="font:arial;text_size:30px;">The graph plot which represents the result</h4>
+    <br>
+    <center>
+<img src="{{url_for('static', filename='my_plot.png')}}" align="middle" style="width:650px;height:500px;" />
+        <p></p>
+        <h5 style="color:black;">Graph represents sentiment analysis</h5>
+    </center>
+    <br>
+    <br>
+</div>
+    {% endblock content %}

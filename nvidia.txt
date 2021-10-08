@@ -1,0 +1,100 @@
+b'RT @NVIDIAEmbedded: Announcing the new NVIDIA\xc2\xae Jetson AGX Xavier\xe2\x84\xa2 Industrial.  It brings unbeatable performance to all your #AI embedded #i\xe2\x80\xa6'
+b'RT @nvidiaomniverse: \xe2\x9a\xa0\xef\xb8\x8fNEW CONTEST ALERT!\xe2\x9a\xa0\xef\xb8\x8f\n\n\xf0\x9f\x9b\xa0\xef\xb8\x8fJoin us in #NVIDIAOmniverse and get access to pre-built models you can use to build your own\xe2\x80\xa6'
+"b""RT @NVIDIAEU: Discover the latest innovations in #HPC and #AI in NVIDIA founder &amp; CEO Jensen Huang's keynote at @Teratec_EU on June 23. Reg\xe2\x80\xa6"""
+b'Synthetic data is increasingly used to create accurate #AI models. Learn about its importance and history. https://t.co/K6eVuMALDd'
+"b'RT @NVIDIADRIVE: With the high-performance, energy-efficient NVIDIA DRIVE platform, @OhioState is taking its AV cybersecurity research to i\xe2\x80\xa6'"
+"b""RT @NVIDIADC: Learn how Dr. Fill, a crossword puzzle-playing #AI, has beaten some of the world's most competitive crossword solvers after b\xe2\x80\xa6"""
+"b'RT @NVIDIADC: Introducing a new wave of @NVIDIA-Certified Systems for accelerated computing, bringing the power of world-class #AI to mains\xe2\x80\xa6'"
+"b'RT @NVIDIADRIVE: Autonomous truck technology is making its way across the Great White North with @NuportRobotics latest AV system, powered\xe2\x80\xa6'"
+b'RT @NVIDIAAIDev: Blog: San Francisco startup Clockwork recently launched a pop-up location offering the first robot nail painting service i\xe2\x80\xa6'
+"b'RT @NVIDIAAI: Join Ronnie Vasishta, SVP of Telecommunications at @nvidia, in a special address at #MWC21 highlighting how to bring connecte\xe2\x80\xa6'"
+"b""Catch up on NVIDIA VP of Automotive Ali Kani's session on transforming the transportation industry with #AI at\xe2\x80\xa6 https://t.co/oNhAeRHT9y"""
+b'We flew into #COMPUTEX virtually this year via @Microsoft Flight Sim running on @NVIDIAGeForce RTX 3080. Join us he\xe2\x80\xa6 https://t.co/FVAn89kKiX'
+b'AI capabilities for the enterprise #datacenter ramp up\xe2\x80\x94we delivered a news-packed virtual keynote at #COMPUTEX 2021\xe2\x80\xa6 https://t.co/oAeHqzIYWQ'
+"b'RT @NVIDIAGeForce: Meet the new GeForce RTX gaming flagship, the RTX 3080 Ti. \n\nComing June 3. \n\nhttps://t.co/bVxFeo51je https://t.co/IYdZl\xe2\x80\xa6'"
+"b""RT @NVIDIADC: #NVIDIA #AI Enterprise software drives the newest wave of NVIDIA-Certified systems from the world's leading manufacturers, gi\xe2\x80\xa6"""
+"b'RT @NVIDIAAP: New gaming flagship, laptops, RTX momentum and #AI for every company: We brought gaming and enterprise innovations in a news-\xe2\x80\xa6'"
+"b'RT @NVIDIADC: Announcing NVIDIA Base Command Platform, a cloud-hosted development hub that lets enterprises quickly move their #AI projects\xe2\x80\xa6'"
+"b'RT @NVIDIANetworkng: Learn which of the world\xe2\x80\x99s top server manufacturers just announced new systems powered by NVIDIA BlueField-2 DPUs, del\xe2\x80\xa6'"
+"b""Our #COMPUTEX executive keynote is live. Don't miss the latest in #AI and the power of accelerated computing from g\xe2\x80\xa6 https://t.co/X0lFpgPZ0c"""
+b'We want YOU to join our NVIDIA #Computex keynote! Learn about the transformational power of accelerated computing. https://t.co/HzmlWrJfJO'
+b'We are bringing our #COMPUTEX executive keynote experience to you live\xe2\x80\x94starting in one hour. Tune in here:\xe2\x80\xa6 https://t.co/YQs8oPicRN'
+b'RT @NVIDIAAP: Save the date for the NVIDIA Executive Keynote at #COMPUTEX 2021 with Jeff Fisher and Manuvir Das: The Transformational Power\xe2\x80\xa6'
+b'RT @NVIDIAEmbedded: Inspiring the future! Bionic prosthetic arm uses #deeplearning and #JetsonNano to create life-changing tech for amputee\xe2\x80\xa6'
+"b'RT @NVIDIADC: #Perlmutter, powered by more than 6,000 NVIDIA A100 GPUs, has officially been dedicated today as the world\xe2\x80\x99s fastest AI #supe\xe2\x80\xa6'"
+"b'We are bringing the #Computex Keynote experience to you. Join us live on May 31, 10PM PDT (UTC-7) to hear about the\xe2\x80\xa6 https://t.co/hXKAIRaAP4'"
+b'RT @NVIDIADC: NVIDIA-Certified servers ensure that modern applications can run at maximum performance almost anywhere\xe2\x80\x94from #datacenter to e\xe2\x80\xa6'
+b'RT @NVIDIADesign: Learn more about this unique XR story: https://t.co/tza69iPldV https://t.co/4U4yy9GNtT'
+"b'Jeff Fisher, GeForce SVP, and Manuvir Das, Head of Enterprise Computing, will deliver our executive keynote packed\xe2\x80\xa6 https://t.co/aeYGhffSjO'"
+"b""RT @NVIDIADRIVE: Robotaxis take a major step toward reality with DiDi's self-driving test fleet, powered by NVIDIA DRIVE AGX Pegasus: https\xe2\x80\xa6"""
+"b'RT @NVIDIAGTC: There is something for everyone at #GTC21, and now all sessions are available at NVIDIA On-Demand. Explore the extensive cat\xe2\x80\xa6'"
+b'RT @NVIDIADesign: \xf0\x9f\x91\x80 WATCH: Multiple artists working on one server? \n\nExperience how the NVIDIA EGX platform provides graphics-rich virtual\xe2\x80\xa6'
+"b'RT @NVIDIADesign: Available in NVIDIA Ampere architecture-based #NVIDIARTX laptop GPUs, third-generation MAX-Q technology introduces AI-bas\xe2\x80\xa6'"
+"b'RT @NVIDIADesign: Now available: the new NVIDIA RTX A4000, the ultimate single-slot GPU that delivers real-time ray tracing, AI-accelerated\xe2\x80\xa6'"
+"b'RT @NVIDIACreators: \xe2\x9d\x97\xef\xb8\x8f A NEW UPDATE IS AVAILABLE NOW \xe2\x9d\x97\xef\xb8\x8f\n\nWe just dropped a bunch of goodies into the NVIDIA Broadcast app, including:\n \n\xf0\x9f\x8e\x99\xef\xb8\x8f\xe2\x80\xa6'"
+"b'RT @NVIDIACreators: \xf0\x9f\x9a\x80 A new Studio Driver, NVIDIA Broadcast app update, and #NVIDIAStudio laptop announcements from Dell, HP, Lenovo, Gigab\xe2\x80\xa6'"
+"b""RT @NVIDIADC: We are using @nvidiaomniverse to create Earth's #digitaltwin to help scientists better visualize weather patterns and climate\xe2\x80\xa6"""
+"b'RT @NVIDIAAI: With over 100 million pieces of daily mail to identify and track, @USPS has leveraged NVIDIA EGX and NVIDIA Triton Inference\xe2\x80\xa6'"
+"b'RT @NVIDIAAI: #AI is everywhere. \n\nFrom art with @soficrespo91, to planet ecology with @PlymouthMarine, to space exploration with @NASA, AI\xe2\x80\xa6'"
+"b""RT @NVIDIAAIDev: 'BMW Brings Together Art + #AI for Virtual Installation Using @NVIDIA StyleGAN' - @BMWUSA unveiled a virtual art installat\xe2\x80\xa6"""
+"b""We're honored to receive recognition as one of @TIME's Most Influential Companies of 2021. #TIME100Companies https://t.co/3fgYaOaehE"""
+"b'RT @NVIDIADRIVE: From cars, to trucks, to robotaxis, NVIDIA #AI is transforming transportation: https://t.co/e33h7JEYPw https://t.co/b1qzOO\xe2\x80\xa6'"
+b'RT @NVIDIAGTC: See the highlights from #GTC21 and then sign-in to watch GTC on-demand for a deeper dive on all the news.  Get the inspirati\xe2\x80\xa6'
+b'RT @NVIDIADRIVE: Watch how #AI can uplevel traditional radar signal processing and help #autonomousvehicles perceive the world with confide\xe2\x80\xa6'
+"b'RT @NVIDIAAI: NVIDIA Deep Learning Institute expands training offerings on transformative topics including #AI, data science, conversationa\xe2\x80\xa6'"
+"b'RT @NVIDIAHealth: Available now, NVIDIA Clara AGX Developer Kit enables healthcare developers to build AI instruments with a universal plat\xe2\x80\xa6'"
+"b'RT @NVIDIAAIDev: For #NationalPoetry Month, The @WashingtonPost researchers used @NVIDIA StyleGAN to generate artwork that accompanied five\xe2\x80\xa6'"
+"b'Developers, researchers and entrepreneurs are harnessing NVIDIA GPUs and #AI to create agricultural technology with\xe2\x80\xa6 https://t.co/dHJYJBtpkp'"
+"b'RT @NVIDIADesign: For the 13th year running, NVIDIA professional GPUs have powered the dazzling visuals and cinematics behind every Academy\xe2\x80\xa6'"
+"b'This #EarthDay, we\xe2\x80\x99re announcing our latest investments in initiatives focused on environmental improvement and cli\xe2\x80\xa6 https://t.co/RAxkaGfw66'"
+"b'RT @NVIDIAAI: NVIDIA extends lead on #MLPerf Inference benchmarks. Today, NVIDIA announced that its AI Inference platform powered by NVIDIA\xe2\x80\xa6'"
+"b'RT @NVIDIADRIVE: NVIDIA DRIVE shone bright this week at #AutoShanghai with intelligent EVs and AV systems powered by high-performance, ener\xe2\x80\xa6'"
+"b""RT @NVIDIAEmbedded: NVIDIA's new three-year partnership with Boys and Girls Club expands access to #AI and #robotics education to more stud\xe2\x80\xa6"""
+"b'RT @NVIDIAGTC: Join the #GTC21 After Party for more Connect with the Experts, Dinner with Strangers, and other special events happening thi\xe2\x80\xa6'"
+b'RT @NVIDIADesign: NVIDIA Research is revving up a new deep learning engine that creates 3D object models from standard 2D images \xe2\x80\x94 and can\xe2\x80\xa6'
+"b'RT @NVIDIAHealth: At #GTC21, @DaphneKoller of @insitro and @kpowgerade of NVIDIA discussed how digital data and #AI computing are shaping t\xe2\x80\xa6'"
+"b'RT @NVIDIADRIVE: With the new @MercedesBenz #EQS featuring the NVIDIA-powered #MBUX Hyperscreen, EV technology is going into hyperdrive: ht\xe2\x80\xa6'"
+"b'RT @NVIDIADC: Introducing NVIDIA Base Command, a new #AI workflow and cluster management software that enables IT teams to securely access,\xe2\x80\xa6'"
+"b'RT @NVIDIADesign: Introducing a range of eight new NVIDIA Ampere architecture GPUs for next-generation laptops, desktops and servers that m\xe2\x80\xa6'"
+"b'RT @NVIDIADesign: Introducing new #NVIDIARTX professional laptop GPUs, based on the NVIDIA Ampere architecture. Delivering breakthrough per\xe2\x80\xa6'"
+"b'RT @NVIDIADesign: Perfectly Balanced. Blazing Performance.\n\nIntroducing the new NVIDIA RTX A5000, delivering the power, performance, capabi\xe2\x80\xa6'"
+"b'RT @NVIDIADRIVE: The next stop on the NVIDIA DRIVE roadmap is Atlan, a true data center on wheels: https://t.co/zHNOGUbsI7 #GTC21 https://t\xe2\x80\xa6'"
+b'RT @NVIDIAGTC: At #GTC21 the NVIDIA A30 was revealed. The newest GPU in the lineup is made for #AI inference. Learn about the latest advanc\xe2\x80\xa6'
+"b'RT @NVIDIADC: Introducing NVIDIA DGX Station 320G. Take a look inside this powerful new workgroup appliance, designed for #datascience team\xe2\x80\xa6'"
+"b'RT @NVIDIAGTC: NVIDIA Maxine uses #AI to reinvent video applications such as video conferencing, virtual events, &amp; live streaming. See how\xe2\x80\xa6'"
+"b""RT @NVIDIADC: .@cscsch's new system will use Grace, a revolutionary @Arm-based data center CPU introduced by NVIDIA, to enable breakthrough\xe2\x80\xa6"""
+b'RT @nvidiaomniverse: The factories of the future will be entirely built in #NVIDIAOmniverse. \n\nSee how @BMWGroup and @NVIDIA are partnering\xe2\x80\xa6'
+"b'RT @NVIDIAHealth: NVIDIA is collaborating with AstraZeneca and the University of Florida on AI research using natural language processing,\xe2\x80\xa6'"
+"b'RT @NVIDIAHPCDev: Announcing CUDA Python, another step towards simplifying the developer experience with improved #Python code portability\xe2\x80\xa6'"
+"b'RT @NVIDIAAI: Leading companies such as @Salesforce, @Volkswagen, and @HuggingFace all use NVIDIA Triton Inference Server for AI inference.\xe2\x80\xa6'"
+"b""RT @NVIDIACreators: #GTC21 is in full swing and we're wrapping up a ton of exciting news this month on NVIDIA Studio: \n\n\xe2\x9a\x99\xef\xb8\x8fApril Studio Driv\xe2\x80\xa6"""
+"b'RT @NVIDIAAI: Shorten the road to enterprise AI with NVIDIA Train, Adapt, and Optimize (TAO) and Fleet Command. One accelerates the creatio\xe2\x80\xa6'"
+"b'RT @NVIDIAAI: Announcing the availability of #NVIDIAJarvis interactive conversational #AI framework, providing developers with state-of-the\xe2\x80\xa6'"
+"b'RT @NVIDIADC: Meet the NVIDIA EGX platform, unifying the data center and bringing accelerated computing to every enterprise. Discover more.\xe2\x80\xa6'"
+"b'RT @NVIDIANetworkng: Made for AI and accelerated computing, NVIDIA BlueField-3 brings powerful software-defined networking, storage, and se\xe2\x80\xa6'"
+"b""Kicking off #GTC21 on Monday's keynote, Jensen Huang weaves the latest advancements in AI, automotive, robotics, 5G\xe2\x80\xa6 https://t.co/ghZylawsP2"""
+b'RT @NVIDIAGTC: Robots learn how to be robots with #Isaac Sim on @NVIDIAOmniverse - a virtual environment where training is accelerated for\xe2\x80\xa6'
+"b'RT @NVIDIAGTC: We invited Bionic Pop Artist @VIKTORIAMODESTA to check out the #GTC21 AI Art Gallery, featuring @hollyherndon &amp; @matdryhurst\xe2\x80\xa6'"
+"b""RT @NVIDIAHealth: Announced at #GTC21, NVIDIA and Schrodinger's collaboration enables the entire pharma industry to accelerate drug discove\xe2\x80\xa6"""
+b'RT @NVIDIAGTC: Get instant visibility into your network security. The recently announced #NVIDIA Morpheus brings a new level of security to\xe2\x80\xa6'
+b'The basic building block of the modern data center. Meet the NVIDIA Grace #CPU. https://t.co/AhzrqUgKOg #GTC21 https://t.co/gpfvUxqDNx'
+b'RT @NVIDIAGTC: Starting soon! A #GTC21 fireside chat with @NVIDIA CEO Jensen Huang and @Adobe CTO Abhay Parasnis: A Shared Vision for the F\xe2\x80\xa6'
+"b'RT @NVIDIAGTC: Today NVIDIA, @cscsch, and @HPE announced the Alps system -- the world\xe2\x80\x99s most powerful #AI-capable supercomputer to advance\xe2\x80\xa6'"
+b'RT @NVIDIAGTC: Quantum computing has the potential to offer giant leaps in computational capabilities. Learn about NVIDIA cuQuantum\xe2\x80\x94an SDK\xe2\x80\xa6'
+b'RT @NVIDIAGTC: Announcing a series of collaborations that combine NVIDIA GPUs and software with @Arm-based CPUs \xe2\x80\x94 extending the benefits of\xe2\x80\xa6'
+"b'RT @NVIDIAGTC: Meet the NVIDIA Grace #CPU, leveraging the flexibility of @Arm\xe2\x80\x99s data center architecture and designed from the ground up to\xe2\x80\xa6'"
+b'RT @NVIDIAGTC: Session starting in 10 minutes: The Energy-Based view of Self-Supervised Learning [S33268] with Turing Award Winner @ylecun.\xe2\x80\xa6'
+"b'RT @NVIDIAAI: Announcing NVIDIA AI-on-5G, a unified platform that extends #AI applications to billions of connected devices at the edge and\xe2\x80\xa6'"
+b'Our collaboration with @Schrodinger enables the pharma industry to accelerate drug discovery at supercomputing scal\xe2\x80\xa6 https://t.co/RSvcnUNQI9'
+"b'The metaverse begins. @NVIDIAOmniverse brings #3D design collaboration and #digitaltwin simulation to creators, des\xe2\x80\xa6 https://t.co/aywK8pbSFb'"
+b'Get instant visibility into your network security. The recently announced NVIDIA Morpheus brings a new level of sec\xe2\x80\xa6 https://t.co/jedjOyZeTz'
+b'Meet NVIDIA Grace - the basic building block of the modern data center. This powerful @Arm-based #CPU allows us to\xe2\x80\xa6 https://t.co/4jzZKuOAEy'
+b'RT @NVIDIADC: Meet NVIDIA Grace - the basic building block of the modern data center. This powerful @Arm-based #CPU allows us to accelerate\xe2\x80\xa6'
+"b'Just announced - the @NVIDIAOmniverse ecosystem is growing with new #NVIDIAOmniverse Connectors, pioneers, and a ne\xe2\x80\xa6 https://t.co/LnWb62iLFP'"
+"b'Just unveiled - @BMWGroup designs, plans, simulates, and operates their Factory of the Future entirely in\xe2\x80\xa6 https://t.co/xZu8KaV1L7'"
+b'.@NVIDIAOmniverse includes the latest in real-time and ultra-real time #physics simulation and research - available\xe2\x80\xa6 https://t.co/1bcsq3ON9I'
+"b""Just announced at #GTC21 - what's new with the #metaverse and @NVIDIAOmniverse. CEO Jensen Huang explains the futur\xe2\x80\xa6 https://t.co/uJdqJR6SoC"""
+b'RT @NVIDIAGTC: Five minutes to go\xe2\x80\xa6 don\xe2\x80\x99t miss the surprises and announcements in the #GTC21 keynote with NVIDIA CEO Jensen Huang. https://t\xe2\x80\xa6'
+b'RT @NVIDIAGTC: Only one hour away... Be sure to tune in for the #GTC21 keynote with #NVIDIA Founder and CEO Jensen Huang at 8:30 a.m. PDT.\xe2\x80\xa6'
+"b'RT @NVIDIAGTC: Discover what comes next at NVIDIA CEO Jensen Huang\xe2\x80\x99s #GTC21 keynote. Save the date April 12, 8:30 a.m. PDT. https://t.co/Px\xe2\x80\xa6'"
+b'RT @NVIDIAGTC: One day until the #GTC21 keynote full of exciting announcements and surprises\xe2\x80\xa6. And 1100 hours of content at the #1 AI confe\xe2\x80\xa6'
